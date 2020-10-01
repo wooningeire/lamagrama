@@ -1,0 +1,3 @@
+:loop
+node .
+GOTO loop
